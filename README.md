@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Windows**
 
-- 📫 How to reach me **nicolas.francois360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
