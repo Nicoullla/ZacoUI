@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate FiveM and Web developer from France</h3>
+<h3 align="center">A passionate FiveM player </h3>
 
 - 🔭 I’m currently working on **New React, Yoshy OS and Bot for discord**
 
